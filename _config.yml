@@ -1,0 +1,28 @@
+name: VMware Troubleshooting
+favicon: null
+layout_spectrum: 0.17896467354148626
+typography_spectrum: 0.21310488996095955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.10382971842773259
+  lightness: 0.17692109756171703
+  saturation: 0.7126989730168134
+  rhythmicContrast: 0.07501063542440534
+purpose: []
